@@ -1,6 +1,6 @@
 # my shopping list
-- milk 
-- eggs
+- smoothies 
+- tofu
 - whole wheat bread
 - sausages
 - "Kwark"
