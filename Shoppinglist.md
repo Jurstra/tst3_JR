@@ -7,7 +7,14 @@
 - Chicken
 - 'Runderlappen'
 - Pineapples
+- Fish
+- chips
+- Nuts
+- Beeeeerrrr!!!!
+
 
 #### we need to remove the veggies from the list
+
+
 
 Let's see if random chatting is also working.
