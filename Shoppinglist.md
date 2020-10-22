@@ -3,6 +3,8 @@
 - eggs
 - bread
 - sausages
+- "Kwark"
+- Chicken
 
 #### we need to remove the veggies from the list
 
