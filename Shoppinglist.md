@@ -1,7 +1,7 @@
 # my shopping list
 - milk 
 - eggs
-- bread
+- whole wheat bread
 - sausages
 - "Kwark"
 - Chicken
